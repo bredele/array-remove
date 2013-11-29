@@ -1,0 +1,14 @@
+{
+  "name": "array-remove",
+  "repo": "leafs/array-remove",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
