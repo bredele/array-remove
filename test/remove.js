@@ -11,7 +11,7 @@ describe('remove', function(){
 		var result = remove(array, function(val){
 			return (val % 2 === 0);
 		});
-		assert(equal(arr, [1,3,5]) === true);
+		assert(equal(array, [1,3,5]) === true);
 		assert(equal(result, [2,4,6]) === true);
   });
 
