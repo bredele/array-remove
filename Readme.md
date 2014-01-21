@@ -1,4 +1,3 @@
-
 # array-remove
 
   
@@ -7,7 +6,7 @@
 
   Install with [component](http://component.io):
 
-    $ component install leafs/array-remove
+    $ component install bredele/array-remove
 
 ## Usage
 
